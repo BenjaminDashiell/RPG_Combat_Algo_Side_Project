@@ -1,0 +1,10 @@
+monster,Giant,110,50,Club Smash,10,0,Rock Throw,15,10,None,0,0,None,0,0
+monster,Dragon,105,100,Dragon Claw,15,0,Sky Attack,15,15,Fireball,30,25,None,0,0
+monster,Wolf,15,50,Bite,10,0,Wolf Pack,15,10,None,0,0,None,0,0
+monster,Undead,20,10,Scratch,5,0,Bite,10,10,None,0,0,None,0,0
+monster,Ghost,20,20,Scratch,5,0,Poltergeist,15,5,None,0,0,None,0,0
+monster,Slime,1,25,Bounce,0,0,Consume,50,5,None,0,0,None,0,0
+monster,Spider,25,10,Bite,10,0,Venom,5,1,Web Shooter,10,5,None,0,0
+monster,Orcs,25,50,Smash,15,0,Axe,30,5,None,0,0,None,0,0
+monster,Witch,50,200,Brewing,0,0,Potion Throw,10,5,Magic Wand,20,10,Witchcraft,50,50
+monster,Demon,200,500,Pitchfork Throw,25,0,Hellfire,30,50,Burst Magic,50,50,Berserk,100,100

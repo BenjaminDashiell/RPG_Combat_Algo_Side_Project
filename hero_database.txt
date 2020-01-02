@@ -1,0 +1,4 @@
+hero,God,10000,10000,Smack,50,0,Judgement,10000,1,None,0,0,None,0,0
+hero,Tiefling Paladin,100,100,Sword Slash,10,0,Light Burst,25,10,Smith,1000,100,None,0,0
+hero,Arcane Archer,100,100,Regular Arrow,15,0,Magic Arrow,20,5,One Shot,1000,100,None,0,0
+hero,Generic Human Fighter,100,100,Punch,0,0,Kick,0,0,Throw,10,10,All Out Assault,100,25
